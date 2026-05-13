@@ -3,7 +3,14 @@
 
 Contains web automation of **https://practicesoftwaretesting.com** for E2E flows of purchasing a product.  
 Sites deals with selling tools through Ecommerce purchase process.
-  
+
+---
+
+### ***** refer - - -  z_documentation - - - folder for ***** 
+- #### Video Recording of suite run and reports
+- #### Actual Reports Generated
+- #### Screenshots of Reports
+
 ---  
 ### Project Structure
 
