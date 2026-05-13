@@ -1,0 +1,24 @@
+Selenium :
+    Whats There :
+        POM classes
+        Extent Reports with Listeners and Thread Safe Report Test
+        Env Varriables
+        Object Mapper Faster Xml , Test data got from json data oin test file.
+        Utils classes for reusability
+        Parallel Execution setup
+
+    What is not there.
+        -Data Models for pojo classes
+        -Data Providers for Example Tests
+        -Read from Json Data
+
+Cucumber
+    Whats There :
+        3 different Reports see the MD file for more details
+        Parallel exec setup
+        Pico Containers , StepDefinations , feature files , POM classes
+        Simple data provider for 1 example
+      Whats not there
+         Complex data providers for various example setup
+
+

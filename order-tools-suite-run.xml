@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Practices Software Testing - Order Tools Suite" parallel="classes" thread-count="2"  >
+
+    <listeners>
+        <listener class-name="richardenterprises.test_components.Listeners" />
+    </listeners>
+
+    <test name="Tools Ordering Tests" parallel="classes" thread-count="2" >
+        <classes>
+            <class name="richardenterprises.tests.OrderToolsE2EFirstProductTest" />
+            <class name="richardenterprises.tests.OrderToolByProductNameSingleProductTest" />
+        </classes>
+
+    </test>
+
+</suite>
